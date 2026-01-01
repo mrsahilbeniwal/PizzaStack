@@ -20,3 +20,7 @@ Download and install Node.js from this link https://nodejs.org/en/download/
 ## Author
 
 **Sahil Beniwal**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
